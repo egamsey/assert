@@ -20,14 +20,7 @@
 <body>
 <div id="world"/>
 
-<script src='http://cdnjs.cloudflare.com/ajax/libs/three.js/r70/three.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/gsap/1.16.1/TweenMax.min.js'></script>
-<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/OrbitControls.js'></script>
-<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/264161/Cat.js'></script>
-<script src="https://fastly.jsdelivr.net/gh/egamsey/assert/header_back/js/index.js"></script>
 
-
-<script src="https://fastly.jsdelivr.net/gh/egamsey/assert/header_back/js/sou.js"></script>
 
 
 <div class="container" style="margin-top: 100px; position: relative; z-index: 100;">
